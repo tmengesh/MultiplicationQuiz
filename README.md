@@ -1,5 +1,4 @@
 # MultiplicationQuiz
-Multiplication quiz is QT C++ project that generates random 10 multiplication questions and grades user's answer
 Designed and developed by Tewodros Mengesha
 teddy1496@yahoo.com 
 Project name: Multiplication Quiz
